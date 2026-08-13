@@ -643,7 +643,7 @@
             "last_commit": "2025-03-06T12:51:55Z",
             "owner": "icflorescu",
             "repo": "trpc-sveltekit",
-            "stars": 834
+            "stars": 835
           }
         },
         {
@@ -735,10 +735,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-12T22:00:25Z",
+            "last_commit": "2026-08-13T22:00:24Z",
             "owner": "coollabsio",
             "repo": "coolify",
-            "stars": 60480
+            "stars": 60520
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2026-02-18T20:43:42Z",
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6845
+            "stars": 6847
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-08-09T21:24:41Z",
             "owner": "files-community",
             "repo": "Website",
-            "stars": 463
+            "stars": 462
           }
         },
         {
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:29:30.862Z",
+    "last_updated": "2026-08-13T22:06:18.618Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
     "enhanced_repository": "enhansome/enhansome-svelte-kit",
