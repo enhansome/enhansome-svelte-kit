@@ -1,0 +1,1012 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "✍️ Blogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Svelte(Kit) TypeScript Showcase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-07-10T11:44:30Z",
+            "owner": "ivanhofer",
+            "repo": "sveltekit-typescript-showcase",
+            "stars": 720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swyxkit",
+          "description": "An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2025-09-22T12:38:56Z",
+            "owner": "swyxio",
+            "repo": "swyxkit",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Starter",
+          "description": "Starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-03-31T10:43:55Z",
+            "owner": "navneetsharmaui",
+            "repo": "sveltekit-starter",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Auth",
+          "description": "Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-16T00:19:23Z",
+            "owner": "Dan6erbond",
+            "repo": "sk-auth",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Starter Kit",
+          "description": "(with Supabase.io Auth, Storage, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-01-01T20:31:45Z",
+            "owner": "one-aalam",
+            "repo": "svelte-starter-kit",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit on Edge(Vercel)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-02-21T16:15:27Z",
+            "owner": "Rich-Harris",
+            "repo": "sveltekit-on-the-edge",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Web3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:43:02Z",
+            "owner": "wighawag",
+            "repo": "jolly-roger",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Firebase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-14T22:23:54Z",
+            "owner": "CaptainCodeman",
+            "repo": "sveltekit-example",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with tRPC",
+          "description": "A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-08-03T07:58:26Z",
+            "owner": "icflorescu",
+            "repo": "trpc-sveltekit-example",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Stripe #1",
+          "description": "and #2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-02-17T20:16:00Z",
+            "owner": "srmullen",
+            "repo": "sveltekit-stripe",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit + Firebase Library",
+          "description": "(docs)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-24T09:59:17Z",
+            "owner": "jacob-8",
+            "repo": "sveltefirets",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with PostgREST",
+          "description": "Svelte/SvelteKit + PostgREST + EveryLayout + social auth starter template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-01-12T14:24:40Z",
+            "owner": "guyromm",
+            "repo": "svelte-postgrest-template",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with NetlifyCMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-04-09T14:29:26Z",
+            "owner": "buhrmi",
+            "repo": "sveltekit-netlify-cms",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with oAuth2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-24T00:41:04Z",
+            "owner": "MacFJA",
+            "repo": "svelte-oauth2",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Magic Link",
+          "description": "(with magic.link",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-03-27T01:12:23Z",
+            "owner": "srmullen",
+            "repo": "sveltekit-magic",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Notion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2021-07-30T16:07:45Z",
+            "owner": "one-aalam",
+            "repo": "svelte-notion-kit",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit on Edge(Cloudflare Workers)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-12T04:03:52Z",
+            "owner": "hazcod",
+            "repo": "cloudflare-workers-svelte",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Solana",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2021-10-17T19:01:29Z",
+            "owner": "silvestrevivo",
+            "repo": "solana-svelte-wallet",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Metamask/Unlock-Protocol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-02-25T08:14:05Z",
+            "owner": "novum-insights",
+            "repo": "sveltekit-unlock-firebase",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Elementary Audio",
+          "description": "A SvelteKit template for Elementary Audio apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-20T23:27:51Z",
+            "owner": "bgins",
+            "repo": "svelte-elementary-template",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Sanity",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit with Email",
+          "description": "Develop transactional emails with SvelteKit on CloudFlare Workers",
+          "children": []
+        }
+      ],
+      "title": "🏃 SvelteKit Starter Kits and Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bun",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-22T18:58:14Z",
+            "owner": "gornostay25",
+            "repo": "svelte-adapter-bun",
+            "stars": 666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deno",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-09T00:23:56Z",
+            "owner": "pluvial",
+            "repo": "svelte-adapter-deno",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firebase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-10T15:59:55Z",
+            "owner": "jthegedus",
+            "repo": "svelte-adapter-firebase",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure SWA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-26T20:49:28Z",
+            "owner": "geoffrich",
+            "repo": "svelte-adapter-azure-swa",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome Extension",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T14:32:34Z",
+            "owner": "michmich112",
+            "repo": "sveltekit-adapter-chrome-extension",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Lambda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-12T20:45:16Z",
+            "owner": "yarbsemaj",
+            "repo": "sveltekit-adapter-lambda",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppEngine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-19T04:18:59Z",
+            "owner": "HalfdanJ",
+            "repo": "svelte-adapter-appengine",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Express",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-07-20T13:26:36Z",
+            "owner": "mankins",
+            "repo": "svelte-adapter-express",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wordpress Shortcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-02T19:46:15Z",
+            "owner": "tomatrow",
+            "repo": "sveltekit-adapter-wordpress-shortcode",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS CDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-03T05:33:57Z",
+            "owner": "juranki",
+            "repo": "sveltekit-cdk",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML Templating Languages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-21T21:54:50Z",
+            "owner": "idleberg",
+            "repo": "sveltekit-adapter-html-like",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS CDK (DIY)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-21T16:54:35Z",
+            "owner": "juranki",
+            "repo": "diy-sveltekit-cdk-adapter",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Architect/Begin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-03-03T14:59:31Z",
+            "owner": "architect",
+            "repo": "sveltekit-adapter",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS Lambda@Edge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-09T18:02:14Z",
+            "owner": "efess",
+            "repo": "svelte-adapter-lambda-edge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uWebSocket",
+          "description": "(in development)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-19T23:16:39Z",
+            "owner": "UnlimitedBytes",
+            "repo": "adapter-uwebsockets",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nest.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-02T03:45:06Z",
+            "owner": "onivoro",
+            "repo": "svelte-adapter-nestjs",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github Pages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T00:12:23Z",
+            "owner": "ota-meshi",
+            "repo": "svelte-adapter-ghpages",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Begin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-28T22:11:38Z",
+            "owner": "ryanbethel",
+            "repo": "sveltekit-begin-adapter",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloudflare",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Adapters"
+    },
+    {
+      "description": "List of tools that simplify SvelteKit DX further",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Svemix",
+          "description": "Like Remix.run(Full-Stack addition) to SvelteKit. Write your server code inside svelte files, handle sessions, forms and SEO easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-23T22:40:51Z",
+            "owner": "pixelmund",
+            "repo": "svemix",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sveltin",
+          "description": "The Smartest Way to Build SvelteKit powered static websites: a powerful CLI for your next SvelteKit static website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-09-28T14:45:18Z",
+            "owner": "sveltinio",
+            "repo": "sveltin",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Zero API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-21T11:07:53Z",
+            "owner": "Refzlund",
+            "repo": "sveltekit-zero-api",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Zero API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-28T08:37:53Z",
+            "owner": "ymzuiku",
+            "repo": "svelte-zero-api",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Meta-Meta"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tRPC SvelteKit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-06T12:51:55Z",
+            "owner": "icflorescu",
+            "repo": "trpc-sveltekit",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit SVG",
+          "description": "SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T09:01:48Z",
+            "owner": "poppa",
+            "repo": "sveltekit-svg",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Embed Components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:48:23Z",
+            "owner": "spences10",
+            "repo": "sveltekit-embed",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Kit Cookie Session",
+          "description": "Encrypted \"stateless\" cookie sessions for SvelteKit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-07T09:47:07Z",
+            "owner": "pixelmund",
+            "repo": "svelte-kit-cookie-session",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Themes - Dark Mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T22:45:15Z",
+            "owner": "beynar",
+            "repo": "svelte-themes",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metawrite SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-03-07T08:09:41Z",
+            "owner": "koodeau",
+            "repo": "metawrite",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Enhancers/Extensions"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Built With Svelte"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Coolify",
+          "description": "An open-source & self-hostable Heroku / Netlify alternative.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T22:00:25Z",
+            "owner": "coollabsio",
+            "repo": "coolify",
+            "stars": 60480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evidence.dev",
+          "description": "Business Intelligence for Modern Data Teams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-18T20:43:42Z",
+            "owner": "evidence-dev",
+            "repo": "evidence",
+            "stars": 6845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacOS Web",
+          "description": "Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-07-05T07:33:00Z",
+            "owner": "PuruVJ",
+            "repo": "macos-web",
+            "stars": 2653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Commerce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-11T19:13:22Z",
+            "owner": "itswadesh",
+            "repo": "svelte-commerce",
+            "stars": 1804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Awesome Svelte-kit Projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T15:50:48Z",
+            "owner": "janosh",
+            "repo": "awesome-sveltekit",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beatbump",
+          "description": "Alternative YouTube Music frontend built with Svelte/SvelteKit",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-10-03T20:49:05Z",
+            "owner": "snuffyDev",
+            "repo": "Beatbump",
+            "stars": 1135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workers KV GUI",
+          "description": "Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder Tauri (write-up)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-04-23T22:52:16Z",
+            "owner": "cloudflare",
+            "repo": "workerskv.gui",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SveltePress",
+          "description": "documentation tool built on top of SvelteKit,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2022-04-29T22:27:45Z",
+            "owner": "GeopJr",
+            "repo": "SveltePress",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LearnAwesome",
+          "description": "Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-02T13:17:28Z",
+            "owner": "learn-awesome",
+            "repo": "learndb",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte Steps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2024-07-20T05:35:26Z",
+            "owner": "shaozi",
+            "repo": "svelte-steps",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webstone",
+          "description": "Start your next full-stack application with Webstone and configure it as you go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-28T08:51:21Z",
+            "owner": "webstonehq",
+            "repo": "webstone-plugins",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteFlow",
+          "description": "📈 Svelte library for building node-based graphs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2023-11-06T21:15:03Z",
+            "owner": "doceazedo",
+            "repo": "svelte-flow",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SvelteKit Snippets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-16T02:49:03Z",
+            "owner": "stordahl",
+            "repo": "sveltekit-snippets",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dockit",
+          "description": "Markdown-based document site",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-01-20T18:46:03Z",
+            "owner": "thecrinkles",
+            "repo": "dockit",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naabu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-02-13T10:10:09Z",
+            "owner": "naabu",
+            "repo": "naabu",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowbite",
+          "description": "Clone of flowbite-react but for Svelte without the jank of flowbite-svelte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-05-30T13:03:04Z",
+            "owner": "edde746",
+            "repo": "flowbite-svelte-but-better",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2021-07-20T13:47:35Z",
+            "owner": "jatinhemnani01",
+            "repo": "reddit-client",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scores",
+          "description": "(code)",
+          "children": []
+        }
+      ],
+      "title": "Open-Source Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Files",
+          "description": "(source) - 3rd Party File Manager for Windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2026-08-09T21:24:41Z",
+            "owner": "files-community",
+            "repo": "Website",
+            "stars": 463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiny Little Paws",
+          "description": "(code) - A marketing website for dog grooming services in Chino Hills, California.",
+          "children": []
+        }
+      ],
+      "title": "Websites/Apps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:29:30.862Z",
+    "original_repository": "one-aalam/awesome-svelte-kit",
+    "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
+    "enhanced_repository": "enhansome/enhansome-svelte-kit",
+    "enhanced_repository_description": null,
+    "title": "Awesome SvelteKit with stars"
+  }
+}
