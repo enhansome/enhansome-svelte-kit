@@ -100,7 +100,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T20:01:22Z",
+            "last_commit": "2026-08-16T08:44:19Z",
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
@@ -735,10 +735,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T21:15:32Z",
+            "last_commit": "2026-08-16T19:45:15Z",
             "owner": "coollabsio",
             "repo": "coolify",
-            "stars": 60628
+            "stars": 60657
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2026-02-18T20:43:42Z",
             "owner": "evidence-dev",
             "repo": "evidence",
-            "stars": 6853
+            "stars": 6856
           }
         },
         {
@@ -985,7 +985,7 @@
           "repo_info": {
             "archived": false,
             "language": "Svelte",
-            "last_commit": "2026-08-14T15:10:48Z",
+            "last_commit": "2026-08-16T20:30:27Z",
             "owner": "files-community",
             "repo": "Website",
             "stars": 462
@@ -1002,7 +1002,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:38:56.609Z",
+    "last_updated": "2026-08-16T21:37:40.303Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
     "enhanced_repository": "enhansome/enhansome-svelte-kit",
