@@ -64,7 +64,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) ⭐ 571 | 🐛 32 | 🌐 TypeScript | 📅 2022-10-16 - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
 * [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase) ⭐ 450 | 🐛 9 | 🌐 Svelte | 📅 2023-01-01(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 * [SvelteKit on Edge(Vercel)](https://github.com/Rich-Harris/sveltekit-on-the-edge) ⭐ 226 | 🐛 2 | 🌐 Svelte | 📅 2023-02-21
-* [SvelteKit with Web3](https://github.com/wighawag/jolly-roger) ⭐ 208 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-18
+* [SvelteKit with Web3](https://github.com/wighawag/jolly-roger) ⭐ 208 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
 * [SvelteKit with Firebase](https://github.com/CaptainCodeman/sveltekit-example) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-14
 * [SvelteKit with tRPC](https://github.com/icflorescu/trpc-sveltekit-example) ⭐ 140 | 🐛 0 | 🌐 Svelte | 📅 2023-08-03 - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit
 * SvelteKit with Stripe [#1](https://github.com/srmullen/sveltekit-stripe) ⭐ 129 | 🐛 4 | 🌐 Svelte | 📅 2024-02-17 and [#2](https://github.com/joshnuss/svelte-stripe-js) ⭐ 493 | 🐛 9 | 🌐 Svelte | 📅 2026-08-14
@@ -130,7 +130,7 @@ List of tools that simplify SvelteKit DX further
 
 ### Open-Source Projects
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 60,742 | 🐛 740 | 🌐 PHP | 📅 2026-08-19 - An open-source & self-hostable Heroku / Netlify alternative.
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 60,762 | 🐛 742 | 🌐 PHP | 📅 2026-08-19 - An open-source & self-hostable Heroku / Netlify alternative.
 * [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 6,862 | 🐛 273 | 🌐 JavaScript | 📅 2026-08-19 - Business Intelligence for Modern Data Teams
 * [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,655 | 🐛 45 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
 * [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,804 | 🐛 15 | 🌐 Svelte | 📅 2026-08-11
@@ -153,7 +153,7 @@ List of tools that simplify SvelteKit DX further
 
 ### Websites/Apps
 
-* [Files](https://files.community/)([source](https://github.com/files-community/website) ⭐ 462 | 🐛 6 | 🌐 Svelte | 📅 2026-08-17) - 3rd Party File Manager for Windows
+* [Files](https://files.community/)([source](https://github.com/files-community/website) ⭐ 462 | 🐛 6 | 🌐 Svelte | 📅 2026-08-19) - 3rd Party File Manager for Windows
 * [sveltesummit.com](https://sveltesummit.com/)
 * [radiofrance.fr](https://www.radiofrance.fr/)
 * [leveluptutorials.com](https://leveluptutorials.com/)
