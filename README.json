@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-19T21:07:46Z",
+                "last_commit": "2026-08-20T20:29:31Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 60762
+                "stars": 60814
               }
             },
             {
@@ -772,11 +772,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 371239231,
-                "language": "JavaScript",
-                "last_commit": "2026-08-19T21:30:06Z",
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T20:40:53Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6862
+                "stars": 6866
               }
             },
             {
@@ -806,7 +806,7 @@
                 "last_commit": "2026-08-11T19:13:22Z",
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1804
+                "stars": 1805
               }
             },
             {
@@ -821,7 +821,7 @@
                 "last_commit": "2026-08-14T08:37:27Z",
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1315
+                "stars": 1316
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "archived": false,
                 "id": 382448273,
                 "language": "Svelte",
-                "last_commit": "2026-08-19T21:36:42Z",
+                "last_commit": "2026-08-20T02:07:29Z",
                 "owner": "files-community",
                 "repo": "Website",
                 "stars": 462
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:44:35.290Z",
+    "last_updated": "2026-08-20T21:47:34.312Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_id": 376728098,
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
