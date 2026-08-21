@@ -690,7 +690,7 @@
             "archived": false,
             "id": 387004664,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:05:18Z",
+            "last_commit": "2026-08-20T22:31:39Z",
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-20T20:29:31Z",
+                "last_commit": "2026-08-21T21:35:26Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 60814
+                "stars": 60849
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 371239231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T20:40:53Z",
+                "last_commit": "2026-08-21T21:07:50Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6866
+                "stars": 6869
               }
             },
             {
@@ -791,7 +791,7 @@
                 "last_commit": "2026-07-05T07:33:00Z",
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2655
+                "stars": 2657
               }
             },
             {
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:47:34.312Z",
+    "last_updated": "2026-08-21T21:42:41.821Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_id": 376728098,
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
