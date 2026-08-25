@@ -102,7 +102,7 @@
             "archived": false,
             "id": 257544956,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:54:37Z",
+            "last_commit": "2026-08-25T06:28:33Z",
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
@@ -761,7 +761,7 @@
                 "last_commit": "2026-08-24T21:32:50Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 60992
+                "stars": 61008
               }
             },
             {
@@ -803,10 +803,10 @@
                 "archived": false,
                 "id": 213575283,
                 "language": "Svelte",
-                "last_commit": "2026-08-24T18:36:47Z",
+                "last_commit": "2026-08-25T06:11:14Z",
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1805
+                "stars": 1806
               }
             },
             {
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:47:30.747Z",
+    "last_updated": "2026-08-25T06:31:29.772Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_id": 376728098,
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
