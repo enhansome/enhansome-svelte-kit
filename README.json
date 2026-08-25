@@ -30,7 +30,7 @@
             "last_commit": "2025-09-22T12:38:56Z",
             "owner": "swyxio",
             "repo": "swyxkit",
-            "stars": 711
+            "stars": 710
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-03-31T10:43:55Z",
             "owner": "navneetsharmaui",
             "repo": "sveltekit-starter",
-            "stars": 637
+            "stars": 636
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 257544956,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:28:33Z",
+            "last_commit": "2026-08-25T10:00:06Z",
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 387004664,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:10:05Z",
+            "last_commit": "2026-08-25T17:58:59Z",
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-24T21:32:50Z",
+                "last_commit": "2026-08-25T20:06:38Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61008
+                "stars": 61033
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 371239231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:59:37Z",
+                "last_commit": "2026-08-25T16:22:21Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6876
+                "stars": 6877
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2025-10-03T20:49:05Z",
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1132
+                "stars": 1131
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2024-07-20T05:35:26Z",
                 "owner": "shaozi",
                 "repo": "svelte-steps",
-                "stars": 108
+                "stars": 107
               }
             },
             {
@@ -1023,7 +1023,7 @@
                 "last_commit": "2026-08-20T02:07:29Z",
                 "owner": "files-community",
                 "repo": "Website",
-                "stars": 462
+                "stars": 461
               }
             }
           ],
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:29.772Z",
+    "last_updated": "2026-08-25T21:47:13.951Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_id": 376728098,
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
