@@ -102,7 +102,7 @@
             "archived": false,
             "id": 257544956,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:00:06Z",
+            "last_commit": "2026-08-26T20:43:00Z",
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
@@ -135,7 +135,7 @@
             "last_commit": "2023-08-03T07:58:26Z",
             "owner": "icflorescu",
             "repo": "trpc-sveltekit-example",
-            "stars": 140
+            "stars": 141
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2025-10-22T18:58:14Z",
             "owner": "gornostay25",
             "repo": "svelte-adapter-bun",
-            "stars": 665
+            "stars": 664
           }
         },
         {
@@ -690,7 +690,7 @@
             "archived": false,
             "id": 387004664,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:58:59Z",
+            "last_commit": "2026-08-26T19:15:12Z",
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
@@ -758,10 +758,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-25T20:06:38Z",
+                "last_commit": "2026-08-26T20:07:39Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61033
+                "stars": 61086
               }
             },
             {
@@ -773,10 +773,10 @@
                 "archived": false,
                 "id": 371239231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T16:22:21Z",
+                "last_commit": "2026-08-26T20:45:13Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6877
+                "stars": 6880
               }
             },
             {
@@ -791,7 +791,7 @@
                 "last_commit": "2026-07-05T07:33:00Z",
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2658
+                "stars": 2659
               }
             },
             {
@@ -806,7 +806,7 @@
                 "last_commit": "2026-08-25T06:11:14Z",
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1806
+                "stars": 1805
               }
             },
             {
@@ -836,7 +836,7 @@
                 "last_commit": "2025-10-03T20:49:05Z",
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1131
+                "stars": 1132
               }
             },
             {
@@ -1020,10 +1020,10 @@
                 "archived": false,
                 "id": 382448273,
                 "language": "Svelte",
-                "last_commit": "2026-08-20T02:07:29Z",
+                "last_commit": "2026-08-26T02:11:29Z",
                 "owner": "files-community",
                 "repo": "Website",
-                "stars": 461
+                "stars": 462
               }
             }
           ],
@@ -1036,7 +1036,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:47:13.951Z",
+    "last_updated": "2026-08-27T00:51:28.565Z",
     "original_repository": "one-aalam/awesome-svelte-kit",
     "original_repository_id": 376728098,
     "original_repository_sha": "60b9960060bf6236cc83c72221ddcf79c4003255",
