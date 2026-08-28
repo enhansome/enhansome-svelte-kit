@@ -16,7 +16,8 @@
             "owner": "ivanhofer",
             "repo": "sveltekit-typescript-showcase",
             "stars": 720
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "swyxio",
             "repo": "swyxkit",
             "stars": 710
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "navneetsharmaui",
             "repo": "sveltekit-starter",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Dan6erbond",
             "repo": "sk-auth",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "one-aalam",
             "repo": "svelte-starter-kit",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Rich-Harris",
             "repo": "sveltekit-on-the-edge",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "CaptainCodeman",
             "repo": "sveltekit-example",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "icflorescu",
             "repo": "trpc-sveltekit-example",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "srmullen",
             "repo": "sveltekit-stripe",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "jacob-8",
             "repo": "sveltefirets",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "guyromm",
             "repo": "svelte-postgrest-template",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "buhrmi",
             "repo": "sveltekit-netlify-cms",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "MacFJA",
             "repo": "svelte-oauth2",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "srmullen",
             "repo": "sveltekit-magic",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "one-aalam",
             "repo": "svelte-notion-kit",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "hazcod",
             "repo": "cloudflare-workers-svelte",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "silvestrevivo",
             "repo": "solana-svelte-wallet",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "novum-insights",
             "repo": "sveltekit-unlock-firebase",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "bgins",
             "repo": "svelte-elementary-template",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         }
       ],
       "title": "🏃 SvelteKit Starter Kits and Integrations"
@@ -322,7 +342,8 @@
             "owner": "gornostay25",
             "repo": "svelte-adapter-bun",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "pluvial",
             "repo": "svelte-adapter-deno",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "jthegedus",
             "repo": "svelte-adapter-firebase",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "geoffrich",
             "repo": "svelte-adapter-azure-swa",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "michmich112",
             "repo": "sveltekit-adapter-chrome-extension",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "yarbsemaj",
             "repo": "sveltekit-adapter-lambda",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "HalfdanJ",
             "repo": "svelte-adapter-appengine",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "mankins",
             "repo": "svelte-adapter-express",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "tomatrow",
             "repo": "sveltekit-adapter-wordpress-shortcode",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "juranki",
             "repo": "sveltekit-cdk",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "idleberg",
             "repo": "sveltekit-adapter-html-like",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "juranki",
             "repo": "diy-sveltekit-cdk-adapter",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "architect",
             "repo": "sveltekit-adapter",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "efess",
             "repo": "svelte-adapter-lambda-edge",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "UnlimitedBytes",
             "repo": "adapter-uwebsockets",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "onivoro",
             "repo": "svelte-adapter-nestjs",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "ota-meshi",
             "repo": "svelte-adapter-ghpages",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "ryanbethel",
             "repo": "sveltekit-begin-adapter",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         }
       ],
       "title": "Adapters"
@@ -598,7 +636,8 @@
             "owner": "pixelmund",
             "repo": "svemix",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "sveltinio",
             "repo": "sveltin",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "Refzlund",
             "repo": "sveltekit-zero-api",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "ymzuiku",
             "repo": "svelte-zero-api",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         }
       ],
       "title": "Meta-Meta"
@@ -664,7 +706,8 @@
             "owner": "icflorescu",
             "repo": "trpc-sveltekit",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "poppa",
             "repo": "sveltekit-svg",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "pixelmund",
             "repo": "svelte-kit-cookie-session",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "beynar",
             "repo": "svelte-themes",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "koodeau",
             "repo": "metawrite",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T05:28:04.528Z"
         }
       ],
       "title": "Enhancers/Extensions"
@@ -758,11 +806,12 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:45:58Z",
+                "last_commit": "2026-08-27T21:02:49Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61099
-              }
+                "stars": 61122
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -776,8 +825,9 @@
                 "last_commit": "2026-08-26T20:45:13Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6884
-              }
+                "stars": 6886
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -792,7 +842,8 @@
                 "owner": "PuruVJ",
                 "repo": "macos-web",
                 "stars": 2659
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -807,7 +858,8 @@
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
                 "stars": 1806
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -822,7 +874,8 @@
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
                 "stars": 1316
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -837,7 +890,8 @@
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
                 "stars": 1132
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -852,7 +906,8 @@
                 "owner": "cloudflare",
                 "repo": "workerskv.gui",
                 "stars": 315
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -867,7 +922,8 @@
                 "owner": "GeopJr",
                 "repo": "SveltePress",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -882,7 +938,8 @@
                 "owner": "learn-awesome",
                 "repo": "learndb",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -897,7 +954,8 @@
                 "owner": "shaozi",
                 "repo": "svelte-steps",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -912,7 +970,8 @@
                 "owner": "webstonehq",
                 "repo": "webstone-plugins",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -927,7 +986,8 @@
                 "owner": "doceazedo",
                 "repo": "svelte-flow",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -942,7 +1002,8 @@
                 "owner": "stordahl",
                 "repo": "sveltekit-snippets",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1018,8 @@
                 "owner": "thecrinkles",
                 "repo": "dockit",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1034,8 @@
                 "owner": "naabu",
                 "repo": "naabu",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1050,8 @@
                 "owner": "edde746",
                 "repo": "flowbite-svelte-but-better",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1066,8 @@
                 "owner": "jatinhemnani01",
                 "repo": "reddit-client",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             }
           ],
           "description": null,
@@ -1024,7 +1089,8 @@
                 "owner": "files-community",
                 "repo": "Website",
                 "stars": 462
-              }
+              },
+              "first_seen": "2026-08-28T05:28:04.528Z"
             }
           ],
           "description": null,
@@ -1036,7 +1102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:05:11.181Z",
+    "last_updated": "2026-08-28T05:28:04.528Z",
     "original_repository_info": {
       "archived": false,
       "id": 376728098,
