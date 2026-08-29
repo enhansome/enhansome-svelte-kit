@@ -108,7 +108,7 @@
             "archived": false,
             "id": 257544956,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:10:05Z",
+            "last_commit": "2026-08-28T16:52:46Z",
             "owner": "wighawag",
             "repo": "jolly-roger",
             "stars": 208
@@ -373,7 +373,7 @@
             "last_commit": "2025-06-10T15:59:55Z",
             "owner": "jthegedus",
             "repo": "svelte-adapter-firebase",
-            "stars": 287
+            "stars": 286
           },
           "first_seen": "2026-08-28T05:28:04.528Z"
         },
@@ -734,7 +734,7 @@
             "archived": false,
             "id": 387004664,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T19:15:12Z",
+            "last_commit": "2026-08-29T02:13:12Z",
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 239
@@ -806,10 +806,10 @@
                 "archived": false,
                 "id": 332880689,
                 "language": "PHP",
-                "last_commit": "2026-08-27T21:02:49Z",
+                "last_commit": "2026-08-28T13:10:07Z",
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61122
+                "stars": 61164
               },
               "first_seen": "2026-08-28T05:28:04.528Z"
             },
@@ -825,7 +825,7 @@
                 "last_commit": "2026-08-26T20:45:13Z",
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6886
+                "stars": 6892
               },
               "first_seen": "2026-08-28T05:28:04.528Z"
             },
@@ -841,7 +841,7 @@
                 "last_commit": "2026-07-05T07:33:00Z",
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2659
+                "stars": 2660
               },
               "first_seen": "2026-08-28T05:28:04.528Z"
             },
@@ -857,7 +857,7 @@
                 "last_commit": "2026-08-25T06:11:14Z",
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1806
+                "stars": 1807
               },
               "first_seen": "2026-08-28T05:28:04.528Z"
             },
@@ -889,7 +889,7 @@
                 "last_commit": "2025-10-03T20:49:05Z",
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1132
+                "stars": 1133
               },
               "first_seen": "2026-08-28T05:28:04.528Z"
             },
@@ -1102,7 +1102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:28:04.528Z",
+    "last_updated": "2026-08-29T03:12:02.684Z",
     "original_repository_info": {
       "archived": false,
       "id": 376728098,
