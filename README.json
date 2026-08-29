@@ -190,7 +190,7 @@
             "id": 257544956,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-08-28T16:52:46Z",
+            "last_commit": "2026-08-29T17:55:26Z",
             "open_issues": 0,
             "owner": "wighawag",
             "repo": "jolly-roger",
@@ -1289,10 +1289,10 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:10:07Z",
-                "open_issues": 660,
+                "open_issues": 664,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61163,
+                "stars": 61185,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1331,10 +1331,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-26T20:45:13Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6892,
+                "stars": 6896,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:56.871Z",
+    "last_updated": "2026-08-29T23:24:10.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
