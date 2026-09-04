@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T18:47:55Z",
-                "open_issues": 668,
+                "last_commit": "2026-09-04T19:15:13Z",
+                "open_issues": 665,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61367,
+                "stars": 61417,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T22:43:19Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-04T19:45:25Z",
+                "open_issues": 32,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6903,
+                "stars": 6908,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1390,7 +1390,7 @@
                 "id": 213575283,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-09-02T07:43:23Z",
+                "last_commit": "2026-09-04T04:09:34Z",
                 "open_issues": 2,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
@@ -1428,7 +1428,7 @@
                 "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:19:31.182Z",
+    "last_updated": "2026-09-04T23:05:03.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
