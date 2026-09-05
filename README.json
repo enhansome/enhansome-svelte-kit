@@ -190,11 +190,11 @@
             "id": 257544956,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-03T20:36:02Z",
+            "last_commit": "2026-09-05T16:54:45Z",
             "open_issues": 0,
             "owner": "wighawag",
             "repo": "jolly-roger",
-            "stars": 208,
+            "stars": 206,
             "topics": [
               "ethereum",
               "ipfs",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T19:15:13Z",
-                "open_issues": 665,
+                "last_commit": "2026-09-05T19:12:13Z",
+                "open_issues": 652,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61417,
+                "stars": 61457,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1334,7 +1334,7 @@
                 "open_issues": 32,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6908,
+                "stars": 6910,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1394,7 +1394,7 @@
                 "open_issues": 2,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1428,7 +1428,7 @@
                 "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1321,
+                "stars": 1322,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:05:03.196Z",
+    "last_updated": "2026-09-05T22:58:05.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
