@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ivanhofer",
             "repo": "sveltekit-typescript-showcase",
-            "stars": 720,
+            "stars": 718,
             "topics": [
               "showcase",
               "svelte",
@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T23:03:32Z",
+            "last_commit": "2026-09-08T22:46:29Z",
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T20:31:19Z",
-                "open_issues": 661,
+                "last_commit": "2026-09-08T20:21:34Z",
+                "open_issues": 651,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61535,
+                "stars": 61572,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1331,10 +1331,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-04T19:45:25Z",
-                "open_issues": 32,
+                "open_issues": 37,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6912,
+                "stars": 6916,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1370,7 +1370,7 @@
                 "open_issues": 46,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2664,
+                "stars": 2665,
                 "topics": [
                   "macos",
                   "svelte"
@@ -1394,7 +1394,7 @@
                 "open_issues": 2,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1807,
+                "stars": 1808,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1767,7 +1767,7 @@
                 "open_issues": 6,
                 "owner": "files-community",
                 "repo": "Website",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "documentation",
                   "files"
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:33:49.270Z",
+    "last_updated": "2026-09-08T23:26:26.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
