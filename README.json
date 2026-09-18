@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T17:46:59Z",
+            "last_commit": "2026-09-18T19:52:05Z",
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T19:20:08Z",
-                "open_issues": 705,
+                "last_commit": "2026-09-18T16:57:44Z",
+                "open_issues": 708,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 61950,
+                "stars": 61996,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T20:55:07Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-18T20:00:26Z",
+                "open_issues": 39,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6945,
+                "stars": 6949,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1394,7 +1394,7 @@
                 "open_issues": 2,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1809,
+                "stars": 1813,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:34:45.384Z",
+    "last_updated": "2026-09-18T23:21:15.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
