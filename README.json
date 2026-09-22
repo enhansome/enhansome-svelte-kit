@@ -46,7 +46,7 @@
             "open_issues": 27,
             "owner": "swyxio",
             "repo": "swyxkit",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "hacktoberfest",
               "netlify",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "navneetsharmaui",
             "repo": "sveltekit-starter",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "bulb",
               "eslint",
@@ -553,7 +553,7 @@
             "open_issues": 33,
             "owner": "gornostay25",
             "repo": "svelte-adapter-bun",
-            "stars": 665,
+            "stars": 664,
             "topics": [
               "bun",
               "bunjs",
@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:00:46Z",
+            "last_commit": "2026-09-21T19:38:53Z",
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T20:29:43Z",
-                "open_issues": 712,
+                "last_commit": "2026-09-21T20:59:22Z",
+                "open_issues": 724,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62085,
+                "stars": 62127,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T20:00:26Z",
+                "last_commit": "2026-09-21T20:29:57Z",
                 "open_issues": 39,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6949,
+                "stars": 6950,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1385,16 +1385,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The open-source headless storefront for Medusa, Shopify, Saleor, Vendure, Woocommerce, Litekart and more",
+                "description": "The open-source headless storefront for Gocommerce, Medusa, Shopify, Saleor, Vendure, Woocommerce, Litekart and more",
                 "homepage": "https://arialshop.com",
                 "id": 213575283,
                 "language": "Svelte",
                 "license": "MIT",
                 "last_commit": "2026-09-09T08:32:04Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1428,7 +1428,7 @@
                 "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1454,7 +1454,7 @@
                 "open_issues": 94,
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1132,
+                "stars": 1131,
                 "topics": [
                   "alternative-frontends",
                   "cloudflare-workers",
@@ -1767,7 +1767,7 @@
                 "open_issues": 6,
                 "owner": "files-community",
                 "repo": "Website",
-                "stars": 464,
+                "stars": 465,
                 "topics": [
                   "documentation",
                   "files"
@@ -1785,7 +1785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:17:14.924Z",
+    "last_updated": "2026-09-22T00:10:25.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
