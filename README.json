@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ivanhofer",
             "repo": "sveltekit-typescript-showcase",
-            "stars": 718,
+            "stars": 717,
             "topics": [
               "showcase",
               "svelte",
@@ -190,7 +190,7 @@
             "id": 257544956,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-25T14:05:15Z",
+            "last_commit": "2026-09-26T20:57:06Z",
             "open_issues": 0,
             "owner": "wighawag",
             "repo": "jolly-roger",
@@ -1168,7 +1168,7 @@
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
-            "stars": 238,
+            "stars": 237,
             "topics": [
               "codepen",
               "deezer",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T23:16:16Z",
-                "open_issues": 752,
+                "last_commit": "2026-09-26T21:50:27Z",
+                "open_issues": 761,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62272,
+                "stars": 62290,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1331,10 +1331,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-25T12:59:30Z",
-                "open_issues": 39,
+                "open_issues": 38,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6960,
+                "stars": 6961,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1434,7 +1434,7 @@
                 "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1321,
+                "stars": 1320,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:57:44.992Z",
+    "last_updated": "2026-09-26T23:39:59.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
