@@ -46,7 +46,7 @@
             "open_issues": 27,
             "owner": "swyxio",
             "repo": "swyxkit",
-            "stars": 710,
+            "stars": 709,
             "topics": [
               "hacktoberfest",
               "netlify",
@@ -194,7 +194,7 @@
             "open_issues": 0,
             "owner": "wighawag",
             "repo": "jolly-roger",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "ethereum",
               "ipfs",
@@ -941,8 +941,8 @@
             "id": 437492076,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:32:51Z",
-            "open_issues": 7,
+            "last_commit": "2026-09-29T04:29:56Z",
+            "open_issues": 6,
             "owner": "ota-meshi",
             "repo": "svelte-adapter-ghpages",
             "stars": 1,
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T21:46:29Z",
-                "open_issues": 746,
+                "last_commit": "2026-09-29T20:55:06Z",
+                "open_issues": 751,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62360,
+                "stars": 62408,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,8 +1330,8 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T12:59:30Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-29T18:40:34Z",
+                "open_issues": 16,
                 "owner": "evidence-dev",
                 "repo": "evidence",
                 "stars": 6964,
@@ -1370,7 +1370,7 @@
                 "open_issues": 45,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2672,
+                "stars": 2671,
                 "topics": [
                   "macos",
                   "svelte"
@@ -1434,7 +1434,7 @@
                 "open_issues": 2,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:02:36.980Z",
+    "last_updated": "2026-09-30T00:33:02.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
