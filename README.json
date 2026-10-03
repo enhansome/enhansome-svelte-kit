@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Svelte(Kit) TypeScript Showcase",
-          "description": null,
+          "description": "ivanhofer/sveltekit-typescript-showcase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit on Edge(Vercel)",
-          "description": null,
+          "description": "Rich-Harris/sveltekit-on-the-edge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,7 +181,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with Web3",
-          "description": null,
+          "description": "wighawag/jolly-roger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with Firebase",
-          "description": null,
+          "description": "CaptainCodeman/sveltekit-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit + Firebase Library",
-          "description": "(docs)",
+          "description": "jacob-8/sveltefirets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -345,7 +345,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with NetlifyCMS",
-          "description": null,
+          "description": "buhrmi/sveltekit-netlify-cms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -366,7 +366,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with oAuth2",
-          "description": null,
+          "description": "MacFJA/svelte-oauth2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with Notion",
-          "description": null,
+          "description": "one-aalam/svelte-notion-kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -450,7 +450,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit on Edge(Cloudflare Workers)",
-          "description": null,
+          "description": "hazcod/cloudflare-workers-svelte",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with Solana",
-          "description": null,
+          "description": "silvestrevivo/solana-svelte-wallet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit with Metamask/Unlock-Protocol",
-          "description": null,
+          "description": "novum-insights/sveltekit-unlock-firebase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -540,7 +540,7 @@
         {
           "node_type": "item",
           "title": "Bun",
-          "description": null,
+          "description": "gornostay25/svelte-adapter-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +567,7 @@
         {
           "node_type": "item",
           "title": "Deno",
-          "description": null,
+          "description": "pluvial/svelte-adapter-deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "Firebase",
-          "description": null,
+          "description": "jthegedus/svelte-adapter-firebase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -624,7 +624,7 @@
         {
           "node_type": "item",
           "title": "Azure SWA",
-          "description": null,
+          "description": "geoffrich/svelte-adapter-azure-swa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -645,7 +645,7 @@
         {
           "node_type": "item",
           "title": "Chrome Extension",
-          "description": null,
+          "description": "michmich112/sveltekit-adapter-chrome-extension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -670,7 +670,7 @@
         {
           "node_type": "item",
           "title": "AWS Lambda",
-          "description": null,
+          "description": "yarbsemaj/sveltekit-adapter-lambda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -701,7 +701,7 @@
         {
           "node_type": "item",
           "title": "AppEngine",
-          "description": null,
+          "description": "HalfdanJ/svelte-adapter-appengine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -728,7 +728,7 @@
         {
           "node_type": "item",
           "title": "Express",
-          "description": null,
+          "description": "mankins/svelte-adapter-express",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -752,7 +752,7 @@
         {
           "node_type": "item",
           "title": "Wordpress Shortcode",
-          "description": null,
+          "description": "tomatrow/sveltekit-adapter-wordpress-shortcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -773,7 +773,7 @@
         {
           "node_type": "item",
           "title": "AWS CDK",
-          "description": null,
+          "description": "juranki/sveltekit-cdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -798,7 +798,7 @@
         {
           "node_type": "item",
           "title": "HTML Templating Languages",
-          "description": null,
+          "description": "idleberg/sveltekit-adapter-html-like",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -822,7 +822,7 @@
         {
           "node_type": "item",
           "title": "AWS CDK (DIY)",
-          "description": null,
+          "description": "juranki/diy-sveltekit-cdk-adapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -848,7 +848,7 @@
         {
           "node_type": "item",
           "title": "Architect/Begin",
-          "description": null,
+          "description": "architect/sveltekit-adapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -869,7 +869,7 @@
         {
           "node_type": "item",
           "title": "AWS Lambda@Edge",
-          "description": null,
+          "description": "efess/svelte-adapter-lambda-edge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,7 +911,7 @@
         {
           "node_type": "item",
           "title": "Nest.js",
-          "description": null,
+          "description": "onivoro/svelte-adapter-nestjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -932,7 +932,7 @@
         {
           "node_type": "item",
           "title": "Github Pages",
-          "description": null,
+          "description": "ota-meshi/svelte-adapter-ghpages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -953,7 +953,7 @@
         {
           "node_type": "item",
           "title": "Begin",
-          "description": null,
+          "description": "ryanbethel/sveltekit-begin-adapter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1043,7 +1043,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit Zero API",
-          "description": null,
+          "description": "Refzlund/sveltekit-zero-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1064,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "Svelte Zero API",
-          "description": null,
+          "description": "ymzuiku/svelte-zero-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1095,7 +1095,7 @@
         {
           "node_type": "item",
           "title": "tRPC SvelteKit",
-          "description": null,
+          "description": "icflorescu/trpc-sveltekit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1155,7 +1155,7 @@
         {
           "node_type": "item",
           "title": "SvelteKit Embed Components",
-          "description": null,
+          "description": "spences10/sveltekit-embed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "Themes - Dark Mode",
-          "description": null,
+          "description": "beynar/svelte-themes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1240,7 +1240,7 @@
         {
           "node_type": "item",
           "title": "Metawrite SDK",
-          "description": null,
+          "description": "koodeau/metawrite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1292,7 +1292,7 @@
                 "open_issues": 741,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62520,
+                "stars": 62524,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1334,7 +1334,7 @@
                 "open_issues": 17,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6976,
+                "stars": 6977,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1381,7 +1381,7 @@
             {
               "node_type": "item",
               "title": "Svelte Commerce",
-              "description": null,
+              "description": "itswadesh/svelte-commerce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
             {
               "node_type": "item",
               "title": "Other Awesome Svelte-kit Projects",
-              "description": null,
+              "description": "janosh/awesome-sveltekit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "Svelte Steps",
-              "description": null,
+              "description": "shaozi/svelte-steps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1636,7 +1636,7 @@
             {
               "node_type": "item",
               "title": "SvelteKit Snippets",
-              "description": null,
+              "description": "stordahl/sveltekit-snippets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1682,7 +1682,7 @@
             {
               "node_type": "item",
               "title": "Naabu",
-              "description": null,
+              "description": "naabu/naabu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1729,7 +1729,7 @@
             {
               "node_type": "item",
               "title": "Reddit Client",
-              "description": null,
+              "description": "jatinhemnani01/reddit-client",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:32:38.976Z",
+    "last_updated": "2026-10-03T05:11:37.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
