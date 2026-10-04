@@ -550,7 +550,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-10-22T18:58:14Z",
-            "open_issues": 34,
+            "open_issues": 36,
             "owner": "gornostay25",
             "repo": "svelte-adapter-bun",
             "stars": 663,
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T23:45:40Z",
-                "open_issues": 743,
+                "last_commit": "2026-10-04T23:56:56Z",
+                "open_issues": 738,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62558,
+                "stars": 62591,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1334,7 +1334,7 @@
                 "open_issues": 17,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6978,
+                "stars": 6977,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1370,7 +1370,7 @@
                 "open_issues": 45,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2674,
+                "stars": 2675,
                 "topics": [
                   "macos",
                   "svelte"
@@ -1430,8 +1430,8 @@
                 "id": 353665258,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T12:22:23Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-04T10:37:35Z",
+                "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
                 "stars": 1323,
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:52:47.399Z",
+    "last_updated": "2026-10-04T23:59:15.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
