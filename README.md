@@ -130,8 +130,8 @@ List of tools that simplify SvelteKit DX further
 
 ### Open-Source Projects
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,633 | 🐛 741 | 🌐 PHP | 📅 2026-10-06 - An open-source & self-hostable Heroku / Netlify alternative.
-* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 6,980 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-02 - Business Intelligence for Modern Data Teams
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,663 | 🐛 740 | 🌐 PHP | 📅 2026-10-06 - An open-source & self-hostable Heroku / Netlify alternative.
+* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 6,985 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-02 - Business Intelligence for Modern Data Teams
 * [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,676 | 🐛 45 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
 * [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,815 | 🐛 1 | 🌐 Svelte | 📅 2026-10-05
 * [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit) ⭐ 1,325 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
@@ -187,4 +187,4 @@ List of tools that simplify SvelteKit DX further
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
