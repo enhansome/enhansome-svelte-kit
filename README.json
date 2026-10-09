@@ -553,7 +553,7 @@
             "open_issues": 36,
             "owner": "gornostay25",
             "repo": "svelte-adapter-bun",
-            "stars": 663,
+            "stars": 662,
             "topics": [
               "bun",
               "bunjs",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T18:21:50Z",
-                "open_issues": 741,
+                "last_commit": "2026-10-08T16:25:23Z",
+                "open_issues": 736,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62697,
+                "stars": 62737,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-07T20:10:33Z",
+                "last_commit": "2026-10-08T19:49:20Z",
                 "open_issues": 15,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6988,
+                "stars": 6989,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1367,7 +1367,7 @@
                 "language": "Svelte",
                 "license": "MIT",
                 "last_commit": "2026-07-05T07:33:00Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
                 "stars": 2676,
@@ -1394,7 +1394,7 @@
                 "open_issues": 1,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1816,
+                "stars": 1818,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1434,7 +1434,7 @@
                 "open_issues": 1,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:03:17.720Z",
+    "last_updated": "2026-10-09T01:15:40.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
