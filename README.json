@@ -1289,10 +1289,10 @@
                 "language": "PHP",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T18:42:05Z",
-                "open_issues": 731,
+                "open_issues": 732,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62786,
+                "stars": 62834,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1334,7 +1334,7 @@
                 "open_issues": 15,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 6995,
+                "stars": 7000,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1394,7 +1394,7 @@
                 "open_issues": 1,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
-                "stars": 1817,
+                "stars": 1818,
                 "topics": [
                   "cart",
                   "ecommerce",
@@ -1460,7 +1460,7 @@
                 "open_issues": 96,
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1130,
+                "stars": 1129,
                 "topics": [
                   "alternative-frontends",
                   "cloudflare-workers",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:57:45.909Z",
+    "last_updated": "2026-10-11T00:15:56.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
