@@ -58,7 +58,7 @@ and good baked-in conventions and constructs to support common web app needs. It
 
 ## 🏃 SvelteKit Starter Kits and Integrations
 
-* [Svelte(Kit) TypeScript Showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) ⭐ 715 | 🐛 0 | 🌐 Svelte | 📅 2023-07-10
+* [Svelte(Kit) TypeScript Showcase](https://github.com/ivanhofer/sveltekit-typescript-showcase) ⭐ 714 | 🐛 0 | 🌐 Svelte | 📅 2023-07-10
 * [Swyxkit](https://github.com/sw-yx/swyxkit) ⚠️ Archived - An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!
 * [SvelteKit Starter](https://github.com/navneetsharmaui/sveltekit-starter) ⭐ 636 | 🐛 0 | 🌐 Svelte | 📅 2026-03-31 - Starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) ⭐ 571 | 🐛 32 | 🌐 TypeScript | 📅 2022-10-16 - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
@@ -121,7 +121,7 @@ List of tools that simplify SvelteKit DX further
 
 * [tRPC SvelteKit](https://github.com/icflorescu/trpc-sveltekit) ⭐ 834 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-06
 * [SvelteKit SVG](https://github.com/poppa/sveltekit-svg) ⭐ 297 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls
-* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-12
+* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-13
 * [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session) ⭐ 190 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-07 - Encrypted "stateless" cookie sessions for SvelteKit
 * [Themes - Dark Mode](https://github.com/beynar/svelte-themes) ⭐ 78 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11
 * [Metawrite SDK](https://github.com/koodeau/metawrite) ⭐ 26 | 🐛 3 | 🌐 Svelte | 📅 2023-03-07
@@ -130,10 +130,10 @@ List of tools that simplify SvelteKit DX further
 
 ### Open-Source Projects
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,909 | 🐛 721 | 🌐 PHP | 📅 2026-10-12 - An open-source & self-hostable Heroku / Netlify alternative.
-* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,003 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-09 - Business Intelligence for Modern Data Teams
-* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,675 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
-* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,820 | 🐛 1 | 🌐 Svelte | 📅 2026-10-07
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,951 | 🐛 719 | 🌐 PHP | 📅 2026-10-13 - An open-source & self-hostable Heroku / Netlify alternative.
+* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,007 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13 - Business Intelligence for Modern Data Teams
+* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,676 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
+* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,819 | 🐛 1 | 🌐 Svelte | 📅 2026-10-07
 * [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit) ⭐ 1,324 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
 * [Beatbump](https://github.com/snuffyDev/Beatbump) ⚠️ Archived - Alternative YouTube Music frontend built with Svelte/SvelteKit
 * [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) ⭐ 315 | 🐛 18 | 🌐 Svelte | 📅 2026-04-23 - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
@@ -187,4 +187,4 @@ List of tools that simplify SvelteKit DX further
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
