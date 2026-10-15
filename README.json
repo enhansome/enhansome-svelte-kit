@@ -637,7 +637,7 @@
             "open_issues": 22,
             "owner": "geoffrich",
             "repo": "svelte-adapter-azure-swa",
-            "stars": 158,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:04.528Z"
@@ -1164,8 +1164,8 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T22:55:40Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-15T17:13:30Z",
+            "open_issues": 11,
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 240,
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:55:30Z",
-                "open_issues": 717,
+                "last_commit": "2026-10-15T22:27:19Z",
+                "open_issues": 653,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62983,
+                "stars": 63027,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-14T21:40:08Z",
+                "last_commit": "2026-10-15T16:16:45Z",
                 "open_issues": 15,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 7019,
+                "stars": 7030,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1370,7 +1370,7 @@
                 "open_issues": 47,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2677,
+                "stars": 2679,
                 "topics": [
                   "macos",
                   "svelte"
@@ -1390,7 +1390,7 @@
                 "id": 213575283,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-10-14T11:03:19Z",
+                "last_commit": "2026-10-15T06:26:51Z",
                 "open_issues": 0,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:58:09.695Z",
+    "last_updated": "2026-10-15T23:42:13.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
