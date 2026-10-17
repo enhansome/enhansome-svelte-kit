@@ -121,7 +121,7 @@ List of tools that simplify SvelteKit DX further
 
 * [tRPC SvelteKit](https://github.com/icflorescu/trpc-sveltekit) ⭐ 834 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-06
 * [SvelteKit SVG](https://github.com/poppa/sveltekit-svg) ⭐ 297 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls
-* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16
+* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-17
 * [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session) ⭐ 190 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-07 - Encrypted "stateless" cookie sessions for SvelteKit
 * [Themes - Dark Mode](https://github.com/beynar/svelte-themes) ⭐ 78 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11
 * [Metawrite SDK](https://github.com/koodeau/metawrite) ⭐ 26 | 🐛 3 | 🌐 Svelte | 📅 2023-03-07
@@ -130,13 +130,13 @@ List of tools that simplify SvelteKit DX further
 
 ### Open-Source Projects
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 63,066 | 🐛 626 | 🌐 PHP | 📅 2026-10-16 - An open-source & self-hostable Heroku / Netlify alternative.
-* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,030 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16 - Business Intelligence for Modern Data Teams
-* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,679 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
-* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,820 | 🐛 0 | 🌐 Svelte | 📅 2026-10-16
-* [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit) ⭐ 1,323 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 63,091 | 🐛 626 | 🌐 PHP | 📅 2026-10-16 - An open-source & self-hostable Heroku / Netlify alternative.
+* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,032 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-16 - Business Intelligence for Modern Data Teams
+* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,680 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
+* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,821 | 🐛 0 | 🌐 Svelte | 📅 2026-10-17
+* [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit) ⭐ 1,324 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
 * [Beatbump](https://github.com/snuffyDev/Beatbump) ⚠️ Archived - Alternative YouTube Music frontend built with Svelte/SvelteKit
-* [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) ⭐ 315 | 🐛 18 | 🌐 Svelte | 📅 2026-04-23 - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+* [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) ⭐ 314 | 🐛 18 | 🌐 Svelte | 📅 2026-04-23 - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 * [SveltePress](https://github.com/GeopJr/SveltePress) ⚠️ Archived - documentation tool built on top of SvelteKit,
 * [LearnAwesome](https://github.com/learn-awesome/learndb) ⭐ 135 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-02 - Curated learning resources with topics, formats, difficulty levels, expert reviews and metadata tags
 * [Svelte Steps](https://github.com/shaozi/svelte-steps) ⭐ 107 | 🐛 11 | 🌐 Svelte | 📅 2024-07-20
@@ -187,4 +187,4 @@ List of tools that simplify SvelteKit DX further
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
