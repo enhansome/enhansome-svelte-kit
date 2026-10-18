@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T20:54:59Z",
+            "last_commit": "2026-10-18T12:40:10Z",
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T21:25:37Z",
-                "open_issues": 626,
+                "last_commit": "2026-10-18T22:02:54Z",
+                "open_issues": 588,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 63091,
+                "stars": 63153,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1334,7 +1334,7 @@
                 "open_issues": 15,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 7032,
+                "stars": 7033,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1390,7 +1390,7 @@
                 "id": 213575283,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-10-17T13:53:16Z",
+                "last_commit": "2026-10-18T05:53:31Z",
                 "open_issues": 0,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
@@ -1460,7 +1460,7 @@
                 "open_issues": 96,
                 "owner": "snuffyDev",
                 "repo": "Beatbump",
-                "stars": 1129,
+                "stars": 1128,
                 "topics": [
                   "alternative-frontends",
                   "cloudflare-workers",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:11:45.110Z",
+    "last_updated": "2026-10-18T23:20:37.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
