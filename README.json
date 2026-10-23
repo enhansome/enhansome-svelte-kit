@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T20:57:32Z",
+            "last_commit": "2026-10-23T15:11:34Z",
             "open_issues": 15,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T19:46:22Z",
-                "open_issues": 408,
+                "last_commit": "2026-10-23T22:45:44Z",
+                "open_issues": 373,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 63483,
+                "stars": 63592,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T01:01:18Z",
+                "last_commit": "2026-10-23T14:42:41Z",
                 "open_issues": 15,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 7048,
+                "stars": 7051,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:00:19.445Z",
+    "last_updated": "2026-10-23T23:52:24.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
