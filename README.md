@@ -64,10 +64,10 @@ and good baked-in conventions and constructs to support common web app needs. It
 * [SvelteKit Auth](https://github.com/Dan6erbond/sk-auth) ⭐ 571 | 🐛 32 | 🌐 TypeScript | 📅 2022-10-16 - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization(like NextAuth)
 * [SvelteKit Starter Kit](https://github.com/one-aalam/svelte-starter-kit/tree/auth-supabase) ⭐ 450 | 🐛 9 | 🌐 Svelte | 📅 2023-01-01(with [Supabase.io](https://supabase.io/) Auth, Storage, etc.)
 * [SvelteKit on Edge(Vercel)](https://github.com/Rich-Harris/sveltekit-on-the-edge) ⭐ 226 | 🐛 2 | 🌐 Svelte | 📅 2023-02-21
-* [SvelteKit with Web3](https://github.com/wighawag/jolly-roger) ⭐ 207 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-21
+* [SvelteKit with Web3](https://github.com/wighawag/jolly-roger) ⭐ 207 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-24
 * [SvelteKit with Firebase](https://github.com/CaptainCodeman/sveltekit-example) ⭐ 151 | 🐛 0 | 🌐 TypeScript | 📅 2022-12-14
 * [SvelteKit with tRPC](https://github.com/icflorescu/trpc-sveltekit-example) ⭐ 141 | 🐛 0 | 🌐 Svelte | 📅 2023-08-03 - A sample SvelteKit application built to illustrate the usage of ✨ trpc-sveltekit
-* SvelteKit with Stripe [#1](https://github.com/srmullen/sveltekit-stripe) ⭐ 129 | 🐛 4 | 🌐 Svelte | 📅 2024-02-17 and [#2](https://github.com/joshnuss/svelte-stripe-js) ⭐ 493 | 🐛 9 | 🌐 Svelte | 📅 2026-08-14
+* SvelteKit with Stripe [#1](https://github.com/srmullen/sveltekit-stripe) ⭐ 129 | 🐛 4 | 🌐 Svelte | 📅 2024-02-17 and [#2](https://github.com/joshnuss/svelte-stripe-js) ⭐ 492 | 🐛 9 | 🌐 Svelte | 📅 2026-08-14
 * [SvelteKit + Firebase Library](https://github.com/jacobbowdoin/sveltefirets) ⭐ 80 | 🐛 0 | 🌐 TypeScript | 📅 2024-04-24([docs](https://sveed.dev/docs/sveltefirets))
 * [SvelteKit with PostgREST](https://github.com/guyromm/svelte-postgrest-template) ⭐ 65 | 🐛 0 | 🌐 Svelte | 📅 2025-01-12 - Svelte/SvelteKit + PostgREST + EveryLayout + social auth starter template
 * [SvelteKit with NetlifyCMS](https://github.com/buhrmi/sveltekit-netlify-cms) ⭐ 58 | 🐛 1 | 🌐 HTML | 📅 2022-04-09
@@ -121,7 +121,7 @@ List of tools that simplify SvelteKit DX further
 
 * [tRPC SvelteKit](https://github.com/icflorescu/trpc-sveltekit) ⭐ 834 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-06
 * [SvelteKit SVG](https://github.com/poppa/sveltekit-svg) ⭐ 297 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-10 - SvelteKit plugin that makes it possible to import SVG files as Svelte components, inline SVG code or urls
-* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-23
+* [SvelteKit Embed Components](https://github.com/spences10/sveltekit-embed) ⭐ 240 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-24
 * [Svelte Kit Cookie Session](https://github.com/pixelmund/svelte-kit-cookie-session) ⭐ 190 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-07 - Encrypted "stateless" cookie sessions for SvelteKit
 * [Themes - Dark Mode](https://github.com/beynar/svelte-themes) ⭐ 78 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-11
 * [Metawrite SDK](https://github.com/koodeau/metawrite) ⭐ 26 | 🐛 3 | 🌐 Svelte | 📅 2023-03-07
@@ -130,10 +130,10 @@ List of tools that simplify SvelteKit DX further
 
 ### Open-Source Projects
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 63,592 | 🐛 373 | 🌐 PHP | 📅 2026-10-23 - An open-source & self-hostable Heroku / Netlify alternative.
-* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,051 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-23 - Business Intelligence for Modern Data Teams
-* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,681 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
-* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,821 | 🐛 0 | 🌐 Svelte | 📅 2026-10-19
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 63,733 | 🐛 370 | 🌐 PHP | 📅 2026-10-24 - An open-source & self-hostable Heroku / Netlify alternative.
+* [evidence.dev](https://github.com/evidence-dev/evidence) ⭐ 7,056 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-23 - Business Intelligence for Modern Data Teams
+* [MacOS Web](https://github.com/puruvj/macos-web) ⭐ 2,680 | 🐛 47 | 🌐 Svelte | 📅 2026-07-05 - Replicates some of the Mac OS(Monterey, at the time of writing)'s desktop experience on web, using Svelte!
+* [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) ⭐ 1,822 | 🐛 0 | 🌐 Svelte | 📅 2026-10-24
 * [Other Awesome Svelte-kit Projects](https://github.com/janosh/awesome-svelte-kit) ⭐ 1,328 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-04
 * [Beatbump](https://github.com/snuffyDev/Beatbump) ⚠️ Archived - Alternative YouTube Music frontend built with Svelte/SvelteKit
 * [Workers KV GUI](https://github.com/cloudflare/workerskv.gui) ⭐ 315 | 🐛 18 | 🌐 Svelte | 📅 2026-04-23 - Desktop client for Cloudflare's Worker KV, built using SvelteKit and an Electron-like Rust based desktop app builder [Tauri](https://tauri.studio/en/) [(write-up)](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
@@ -187,4 +187,4 @@ List of tools that simplify SvelteKit DX further
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
