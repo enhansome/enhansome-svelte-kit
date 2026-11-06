@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ivanhofer",
             "repo": "sveltekit-typescript-showcase",
-            "stars": 713,
+            "stars": 712,
             "topics": [
               "showcase",
               "svelte",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "navneetsharmaui",
             "repo": "sveltekit-starter",
-            "stars": 636,
+            "stars": 635,
             "topics": [
               "bulb",
               "eslint",
@@ -190,7 +190,7 @@
             "id": 257544956,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-04T17:29:26Z",
+            "last_commit": "2026-11-05T15:32:56Z",
             "open_issues": 2,
             "owner": "wighawag",
             "repo": "jolly-roger",
@@ -941,7 +941,7 @@
             "id": 437492076,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T10:02:37Z",
+            "last_commit": "2026-11-05T21:43:22Z",
             "open_issues": 9,
             "owner": "ota-meshi",
             "repo": "svelte-adapter-ghpages",
@@ -1164,7 +1164,7 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:30:26Z",
+            "last_commit": "2026-11-05T19:31:40Z",
             "open_issues": 7,
             "owner": "spences10",
             "repo": "sveltekit-embed",
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T21:05:54Z",
-                "open_issues": 256,
+                "last_commit": "2026-11-05T22:50:19Z",
+                "open_issues": 243,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 65643,
+                "stars": 65687,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T23:05:55Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-05T03:56:43Z",
+                "open_issues": 31,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 7087,
+                "stars": 7092,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1370,7 +1370,7 @@
                 "open_issues": 47,
                 "owner": "PuruVJ",
                 "repo": "macos-web",
-                "stars": 2682,
+                "stars": 2683,
                 "topics": [
                   "macos",
                   "svelte"
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:30:07.693Z",
+    "last_updated": "2026-11-06T01:36:33.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
