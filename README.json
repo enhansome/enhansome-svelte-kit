@@ -173,7 +173,7 @@
             "open_issues": 2,
             "owner": "Rich-Harris",
             "repo": "sveltekit-on-the-edge",
-            "stars": 226,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:04.528Z"
@@ -190,7 +190,7 @@
             "id": 257544956,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-21T00:32:22Z",
+            "last_commit": "2026-11-21T22:23:55Z",
             "open_issues": 1,
             "owner": "wighawag",
             "repo": "jolly-roger",
@@ -580,7 +580,7 @@
             "open_issues": 10,
             "owner": "pluvial",
             "repo": "svelte-adapter-deno",
-            "stars": 353,
+            "stars": 352,
             "topics": [
               "deno",
               "svelte",
@@ -1108,7 +1108,7 @@
             "open_issues": 0,
             "owner": "icflorescu",
             "repo": "trpc-sveltekit",
-            "stars": 833,
+            "stars": 832,
             "topics": [
               "svelte",
               "sveltekit",
@@ -1135,7 +1135,7 @@
             "open_issues": 0,
             "owner": "poppa",
             "repo": "sveltekit-svg",
-            "stars": 298,
+            "stars": 297,
             "topics": [
               "svelte",
               "svelte3",
@@ -1164,8 +1164,8 @@
             "id": 387004664,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T02:15:00Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-21T14:20:34Z",
+            "open_issues": 10,
             "owner": "spences10",
             "repo": "sveltekit-embed",
             "stars": 240,
@@ -1288,11 +1288,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T19:07:03Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-21T09:53:08Z",
+                "open_issues": 95,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 66309,
+                "stars": 66333,
                 "topics": [
                   "coolify",
                   "databases",
@@ -1330,11 +1330,11 @@
                 "id": 371239231,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T18:43:53Z",
+                "last_commit": "2026-11-21T19:59:34Z",
                 "open_issues": 42,
                 "owner": "evidence-dev",
                 "repo": "evidence",
-                "stars": 7138,
+                "stars": 7141,
                 "topics": [
                   "analytics",
                   "business-intelligence",
@@ -1390,7 +1390,7 @@
                 "id": 213575283,
                 "language": "Svelte",
                 "license": "MIT",
-                "last_commit": "2026-11-20T17:22:42Z",
+                "last_commit": "2026-11-21T14:27:01Z",
                 "open_issues": 0,
                 "owner": "itswadesh",
                 "repo": "svelte-commerce",
@@ -1431,10 +1431,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-30T16:40:36Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "janosh",
                 "repo": "awesome-sveltekit",
-                "stars": 1334,
+                "stars": 1333,
                 "topics": [
                   "awesome-list",
                   "community",
@@ -1573,7 +1573,7 @@
                 "open_issues": 11,
                 "owner": "shaozi",
                 "repo": "svelte-steps",
-                "stars": 106,
+                "stars": 105,
                 "topics": [
                   "bootstrap",
                   "svelte",
@@ -1773,7 +1773,7 @@
                 "open_issues": 6,
                 "owner": "files-community",
                 "repo": "Website",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "documentation",
                   "files"
@@ -1791,7 +1791,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:26:56.689Z",
+    "last_updated": "2026-11-22T01:24:37.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated resources on building sites with SvelteKit - A server-less-first answer to \"the Next.js experience\" by the Svelte community",
